@@ -8,4 +8,4 @@ pointnet-tf2.0-customize
 
 # File meaning and purpose
 
-- customize.npz `Compressed training data`
+- `customize.npz` Compressed training data
